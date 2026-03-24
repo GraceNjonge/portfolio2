@@ -1,6 +1,5 @@
 import './contact.css';
 //import the social media icons
-import Facebook from '../../assets/facebook.png';
 import facebookIcon from '../../assets/facebook-icon.png';
 import twitterIcon from '../../assets/twitter.png';
 import youtubeIcon from '../../assets/youtube.png';
