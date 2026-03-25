@@ -1,8 +1,8 @@
 1.Getting Started with Create React App
-This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
+  This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
 
 2.  Portfolio Website
-A modern and responsive Developer Portfolio web application built to provide concrete proof of technical abilities by showing live sites, apps.  This project demonstrates frontend development skills using React, component-based architecture, and responsive design.
+  A modern and responsive Developer Portfolio web application built to provide concrete proof of technical abilities by showing live sites, apps.  This project   demonstrates frontend development skills using React, component-based architecture, and responsive design.
 
 🚀 Live Demo
 🔗 View Live Project (https:// https://portfolio2-om6e.vercel.app//)
