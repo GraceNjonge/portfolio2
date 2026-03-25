@@ -12,15 +12,15 @@ const Skills = () => {
                
                     <img src={WebDesign} alt="WebDesign" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>Website Design</h2>
-                        <p>This demo text can be changed while making the production ready website.</p>
+                        <h2>Website Developer</h2>
+                        <p>A website developer creates the look, layout, and functionality of websites, balancing artistic aesthetics .</p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={AppDesign} alt="AppDesign" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>App Design</h2>
-                        <p>You can write text related to mobile app development.</p>
+                        <h2>Video Editing</h2>
+                        <p> a creative professional responsible for assembling raw footage, trimming segments, and inserting sound, music, and graphics to produce a polished final video.</p>
                     </div>
                 </div>
         </section>
