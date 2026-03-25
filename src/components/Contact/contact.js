@@ -89,13 +89,13 @@ const Contact = () => {
             <a  href="https://www.facebook.com/grace.njonge.5"  target="_blank" rel="noopener noreferrer">
             <img src={facebookIcon} alt="Facebook" className="link"/>
             </a>
-             <a  href="https://www.facebook.com/grace.njonge.5"  target="_blank" rel="noopener noreferrer">
+             <a  href="https://x.com/shironjonge"  target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="link" />
             </a>
             <a  href="https://www.facebook.com/grace.njonge.5"  target="_blank" rel="noopener noreferrer">
             <img src={youtubeIcon} alt="YouTube" className="link" />
             </a>
-            <a  href="https://www.facebook.com/grace.njonge.5"  target="_blank" rel="noopener noreferrer">
+            <a  href="https://www.instagram.com/miss_wanjiro?igsh=MTVhbGJmZmszdHZvZQ=="  target="_blank" rel="noopener noreferrer">
             <img src={instagramIcon} alt="Instagram" className="link" />
             </a>
           </div>
